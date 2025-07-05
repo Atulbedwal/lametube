@@ -1,5 +1,5 @@
 import { Stack, Typography } from "@mui/material";
-import { fontSize } from "@mui/system";
+// import { fontSize } from "@mui/system";
 import { Link } from "react-router-dom";
 
 import { logo } from "../utils/constants";
